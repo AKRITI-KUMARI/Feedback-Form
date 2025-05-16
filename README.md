@@ -1,2 +1,2 @@
 # Feedback-Form
-To collect feedback from the customers.
+This project is a Feedback Form built using **HTML & CSS**, designed to collect user opinions, suggestions, and ratings effectively. The form provides an easy-to-use interface where users can share their thoughts while ensuring a visually appealing and responsive design. It contains various input fields including text, email, radio buttons, checkboxes, and text area for detailed feedback.
