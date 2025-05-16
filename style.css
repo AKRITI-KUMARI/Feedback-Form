@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(95, 76, 171);
+    color: white;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+form{
+    background-color: rgb(8, 2, 27);
+    color: white;
+    width: 50%;
+    margin: auto;
+    padding: 25px;
+    font-size: 22px;
+}
+
+section{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    margin: 25px 10px;
+    gap: 5px;
+}
+
+#comment{
+    height: 100px;
+}
+
+button{
+    text-align: center;
+    width: 97%;
+    padding: 10px;
+    background-color: rgb(3, 79, 3);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+}
