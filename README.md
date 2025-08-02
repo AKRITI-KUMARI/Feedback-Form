@@ -1,2 +1,17 @@
-# Feedback-Form
-This project is a Feedback Form built using **HTML & CSS**, designed to collect user opinions, suggestions, and ratings effectively. The form provides an easy-to-use interface where users can share their thoughts while ensuring a visually appealing and responsive design. It contains various input fields including text, email, radio buttons, checkboxes, and text area for detailed feedback.
+# 📝 Feedback Form (HTML & CSS)
+
+A responsive feedback form built using pure HTML and CSS, inspired by the freeCodeCamp Responsive Web Design course. This project demonstrates form structure, accessibility, and styling fundamentals — ideal for collecting user input in a clean and user-friendly layout.
+
+## 🛠️ Tech Stack
+
+- **HTML5**: Semantic form elements and accessibility
+- **CSS3**: Styling, layout, and responsive design
+- **Google Fonts**: Custom typography (optional)
+
+## 📸 Features
+
+- 🧾 **Form Fields**: Name, email, rating, comments, and preferences
+- ✅ **Input Validation**: Required fields and proper input types
+- 🎨 **Styled Layout**: Clean design with spacing and visual hierarchy
+- 📱 **Responsive Design**: Mobile-friendly with media queries
+- ♿ **Accessible Markup**: Labels and fieldsets for screen readers
